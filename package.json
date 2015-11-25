@@ -1,0 +1,23 @@
+{
+  "name": "assignment-22",
+  "version": "1.0.0",
+  "description": "___This homework is due by 8am, on 11/25/2015___",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiy-lv-frontend-2015-10/Assignment-22.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiy-lv-frontend-2015-10/Assignment-22/issues"
+  },
+  "homepage": "https://github.com/tiy-lv-frontend-2015-10/Assignment-22#readme",
+  "dependencies": {
+    "react": "^0.14.3",
+    "react-dom": "^0.14.2"
+  }
+}
