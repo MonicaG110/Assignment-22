@@ -1,9 +1,10 @@
 var React = require('react');
 var ReactDOM = require('React-dom');
+var Button = require('./button.jsx');
 
 
 
-ReactDOM.render(<button name="likes"/>,document.getElementById('container'));
+ReactDOM.render(<Button name="likes"/>,document.getElementById('container'));
 
 
 

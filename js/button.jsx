@@ -1,7 +1,7 @@
 
 var React = require('react');
 
-var button = React.createClass({
+var Button = React.createClass({
  plus: function(){
    this.setState({
      count: this.state.count + 1
@@ -23,4 +23,4 @@ var button = React.createClass({
  }
 });
 
-module.exports = button;
+module.exports = Button;
